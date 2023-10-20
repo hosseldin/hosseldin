@@ -1,10 +1,14 @@
 #                                                         Hello everybody 🙋‍♂️, Im Hossam Mahmoud
 
-- 👋 I'm currently pursuing a master's degree in computer engineering at Ain Shams University and working in the electrical light current field!
-- 👀 I’m fascinated by how computers are involved in our lives, from the simple smartwatch that we wear, to our personal vehicle that works by countless computers
-- 👨🏻‍💻 I’m currently learning several computer languages, methodologies and technologies
-- 💻 I’m learning C++, C & (Embedded C), Embedded Systems, OOP, Data Structures & Algorithms
-- 💞️ I   love reading about Machine learning and AI advancements, data analysis and automotive technologies evolvement ...
+<img align="right" width="400" height="400" src="Me.gif"><br /><br />
+- 👋 I'm currently pursuing a master's degree in computer engineering at Ain Shams University<br />
+- 👀 I’m fascinated by how computers are involved in our lives, from the simple smartwatch that we wear, to our personal vehicle that works by countless computers<br />
+- 👨🏻‍💻 I’m currently learning several computer languages, methodologies and technologies<br />
+- 💻 I’m learning C++, C & (Embedded C), Embedded Systems, OOP, Data Structures & Algorithms<br />
+- 💞️ I am passionate about the automotive industry & Formula 1 Racing<br />
+- 💻 I'm keen in learning Embedded Automotive Engineering, Data Analysis, Machine learning and AI advancements...<br />
+
+
 
 
 ## Connect with me on:
