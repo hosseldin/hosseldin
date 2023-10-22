@@ -5,10 +5,12 @@
 - 👀 I’m fascinated by how computers are involved in our lives, from the simple smartwatch that we wear, to our personal vehicle that works by countless computers<br />
 - 👨🏻‍💻 I’m currently learning several computer languages, methodologies and technologies<br />
 - 💻 I’m learning C++, C & (Embedded C), Embedded Systems, OOP, Data Structures & Algorithms<br />
-- 💞️ I am passionate about the automotive industry & Formula 1 Racing<br />
+- 🏎️ I am passionate about the automotive industry & Formula 1 Racing<br />
 - 💻 I'm keen in learning Embedded Automotive Engineering, Data Analysis, Machine learning and AI advancements...<br />
 
-
+<p align="center">
+  <img width="800" height="450" src="Hosa2.gif">
+</p>
 
 
 ## Connect with me on:
