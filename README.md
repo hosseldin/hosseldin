@@ -1,5 +1,5 @@
 #                                                         Hello everybody 🙋‍♂️, Im Hossam Mahmoud
-![](https://komarev.com/ghpvc/?username=hossam-mahmoudatta&color=brightgreen&style=plastic)
+![](https://komarev.com/ghpvc/?username=hossam-mahmoudatta&color=blueviolet&style=plastic&base=265)
 <img align="right" width="400" height="400" src="Me.gif"><br /><br />
 - 👋 I'm currently pursuing a master's degree in computer engineering at Ain Shams University<br />
 - 👀 I’m fascinated by how computers are involved in our lives, from the simple smartwatch that we wear, to our personal vehicle that works by countless computers<br />
