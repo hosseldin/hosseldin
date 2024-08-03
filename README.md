@@ -8,10 +8,6 @@
 - 🏎️ I am passionate about the automotive industry & Formula 1 Racing<br />
 - 💻 I'm keen in learning Embedded Automotive Engineering, Data Analysis, Machine learning and AI advancements...<br />
 
-<p align="center">
-  <img width="800" height="450" src="Hosa2.gif">
-</p>
-
 
 ## Connect with me on:
 
@@ -27,6 +23,10 @@
 
 
 <!---
+<p align="center">
+  <img width="800" height="450" src="Hosa2.gif">
+</p>
+
 hossam-mahmoudatta/hossam-mahmoudatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
