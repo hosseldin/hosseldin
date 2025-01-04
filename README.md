@@ -2,11 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=hossam-mahmoudatta&color=blueviolet&style=plastic&base=265)
 <img align="right" width="400" height="400" src="Me.gif"><br /><br />
 - 👋 I'm currently pursuing a master's degree in computer engineering at Ain Shams University<br />
-- 👀 I’m fascinated by how computers are involved in our lives, from the simple smartwatch that we wear, to our personal vehicle that works by countless computers<br />
-- 👨🏻‍💻 I’m currently learning several computer languages, methodologies and technologies<br />
-- 💻 I’m learning C++, C & (Embedded C), Embedded Systems, OOP, Data Structures & Algorithms<br />
-- 🏎️ I am passionate about the automotive industry & Formula 1 Racing<br />
-- 💻 I'm keen in learning Embedded Automotive Engineering, Data Analysis, Machine learning and AI advancements...<br />
+- 👀 I’m fascinated by how computers are involved in our lives, from the simple smartwatch that we wear to our vehicle that works by countless computers<br />
+- 💻 I’m learning Networks, Linux, Python, Shell Scripting, Docker, Kubernetes, and DevOps Tools<br />
+- 👨🏻‍💻 I’m currently learning several computer languages, methodologies, and technologies<br />
+- 💻 I'm keen on learning Advanced DevOps Methodologies, DevSecOps, and AI involvements with DevOps...<br />
 
 
 ## Connect with me on:
