@@ -1,11 +1,11 @@
 #                                                         Hello everybody 🙋‍♂️, Im Hossam Mahmoud
 ![](https://komarev.com/ghpvc/?username=hossam-mahmoudatta&color=blueviolet&style=plastic&base=265)
-<img align="right" width="450" height="450" src="Main.gif"><br /><br />
+<img align="right" width="350" height="250" src="cool_working.gif"><br />
 - 👋 I'm currently pursuing a master's degree in computer engineering at Ain Shams University<br />
 - 👀 I’m fascinated by how computers are involved in our lives, from the simple smartwatch that we wear to our vehicle that works by countless computers<br />
 - 💻 I’m learning Networks, Linux, Python, Shell Scripting, Docker, Kubernetes, and DevOps Tools<br />
 - 👨🏻‍💻 I’m currently learning several computer languages, methodologies, and technologies<br />
-- 💻 I'm keen on learning Advanced DevOps Methodologies, DevSecOps, and AI involvements with DevOps...<br />
+- 💻 I'm keen on learning Advanced DevOps Methodologies, DevSecOps, and AI involvements with DevOps...<br /><br />
 
 
 ## Connect with me on:
