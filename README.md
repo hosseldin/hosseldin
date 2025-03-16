@@ -12,6 +12,12 @@
 ```sh
 hossam@GitHub:~$ g++ about.cpp -o about.exe
 hossam@GitHub:~$ ./about.exe > ABOUTME.txt
+hossam@GitHub:~$ cat ABOUTME.txt
+
+👨‍💻 Hossam Mahmoud  
+🚀 DevOps | Cloud | Software Engineering  
+🎓 Masters in Computer Engineering at Ain Shams University  
+🐧 Linux | Docker | Kubernetes | AWS | Terraform | Jenkins
 ```
 
 <hr>
